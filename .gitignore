@@ -1,5 +1,6 @@
 /obj
 /Docs
+/build
 /.vscode
 *.tga
 *.exe

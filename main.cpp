@@ -23,7 +23,7 @@ int main() {
     TGAImage framebuffer(width, height, TGAImage::RGB);
     TGAImage zbuffer(width, height, TGAImage::GRAYSCALE);
 
-    Model model("african_head.obj");
+    Model model("diablo3_pose.obj");
 
     std::cout<< "Vertices: " << model.get_vertices().size()<< '\n';
         
