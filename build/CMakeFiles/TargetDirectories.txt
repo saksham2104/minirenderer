@@ -1,3 +1,0 @@
-/Users/saksham/Desktop/Saksham/tinyrenderer/build/CMakeFiles/tinyrenderer.dir
-/Users/saksham/Desktop/Saksham/tinyrenderer/build/CMakeFiles/edit_cache.dir
-/Users/saksham/Desktop/Saksham/tinyrenderer/build/CMakeFiles/rebuild_cache.dir
